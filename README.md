@@ -1,48 +1,50 @@
-## **🌟🌟 Abdelrahman  Mosaed's Profile 🌟🌟**
- ---
- I'm a front-end developer  🎓 passionate about web development and competitive programming!
- 
- - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript/TypeScript, Angular)
- - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
- - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
- - 💬 Ask me about anything related to web development or algorithms
- 
- ### 📫 How to reach me:
- 
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdelrahman.mosaed.304@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mosaed/)
- [![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)]()
- 
- ### 🛠 Skills
- 
- **Programming Languages**:
- 
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- 
- **Web Development**:
- 
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- 
- **Software Development**:
- 
- ![Data Structures](https://img.shields.io/badge/Data%20Structures-3DDC84?style=for-the-badge&logo=google%20classroom&logoColor=white)
- ![OOP](https://img.shields.io/badge/OOP-0096FF?style=for-the-badge&logo=java&logoColor=white)
- ![Algorithms](https://img.shields.io/badge/Algorithms-FF5733?style=for-the-badge&logo=apache%20spark&logoColor=white)
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- 
- **Soft Skills**:
- 
- ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge&logo=thinkpad&logoColor=white)
- ![Willingness to Learn](https://img.shields.io/badge/Willingness%20to%20Learn-009688?style=for-the-badge&logo=microsoft&logoColor=white)
- ![Communication](https://img.shields.io/badge/Communication-0077B5?style=for-the-badge&logo=messenger&logoColor=white)
- 
- ---
- 
- ⚡ **Fun Fact:** I code best when I have a good playlist in the background! 🎧
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Yousef Dergham's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my portfolio at https://yousefdergham.vercel.app/ to see some of the projects I've worked on.
+
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+</a>
