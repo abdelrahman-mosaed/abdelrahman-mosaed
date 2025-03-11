@@ -1,18 +1,17 @@
-## **🌟🌟 Omar Khaled's Profile 🌟🌟**
+## **🌟🌟 Abdelrahman  Mosaed's Profile 🌟🌟**
  ---
- I'm a Computer Science student 🎓 passionate about web development and competitive programming!
+ I'm a front-end developer  🎓 passionate about web development and competitive programming!
  
- - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
+ - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript/TypeScript, Angular)
  - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
  - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
  - 💬 Ask me about anything related to web development or algorithms
  
  ### 📫 How to reach me:
  
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkhaledfayez123@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-fayez)
- [![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/1TnEki32l1cjCmobVqRtP7li5mvpMDWPm/view?usp=drive_link)
- [![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/1W8xN8tMXaMBH79WJSEWq6c3atJS5zFb5/view?usp=sharing)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdelrahman.mosaed.304@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mosaed/)
+ [![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)]()
  
  ### 🛠 Skills
  
