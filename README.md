@@ -10,11 +10,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20Ready%20to%20Learn!&font=Fira%20Code&center=true&width=440&height=45&color=fd6f00&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.vercel.app/ to see some of the projects I've worked on.
+
+- 🏢 I'm a **Front-end Developer**, currently working with **Angular** and passionate about building great UIs.  
+- 👨‍💻 Always learning! Started with data entry, leveled up in **Python, Django, and JavaScript**, and now specializing in front-end development.  
+- 💬 Ask me about **Angular, JavaScript, and front-end best practices**, or anything related to **digital marketing** and freelancing.  
+- ⚡ Fun Fact: I'm a coffee lover—my day isn't complete without a cup (or two). ☕  
+- 🌍 Check out my portfolio **[here](https://abdelrahman689.github.io/personalweb/)** to see my work!  
 
 
 ### Connect with Me :
